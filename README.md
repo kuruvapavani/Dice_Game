@@ -1,1 +1,3 @@
 # Dice_Game
+
+This project is a simple and fun game of dice. I used HTML, CSS, and JavaScript to create the game logic, interface, and animation. The game involves two players: you and the computer. Each player has a dice image on the screen. When you refresh the page, the computer will generate two random numbers between 1 and 6. The dice images will change according to the numbers. The player with the higher number wins the game. The game also displays a message that announces the winner or declares a draw. The project illustrates my skills in JavaScript and my ability to use random functions and manipulate the DOM.
