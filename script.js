@@ -14,22 +14,22 @@ function dispalyRoll(num){
   }
   switch(num){
     case 1 :
-      y.src = "one.jpg";
+      y.src = "https://github.com/kuruvapavani/Dice_Game/blob/main/images/one.jpg?raw=true";
     break;
     case 2 :
-      y.src = "two.jpg";
+      y.src = "https://github.com/kuruvapavani/Dice_Game/blob/main/images/two.jpg?raw=true";
     break;
     case 3 :
-      y.src = "three.jpg";
+      y.src = "https://github.com/kuruvapavani/Dice_Game/blob/main/images/three.jpg?raw=true";
     break;
     case 4 :
-      y.src = "four.jpg";
+      y.src = "https://github.com/kuruvapavani/Dice_Game/blob/main/images/four.jpg?raw=true";
     break;
     case  5:
-      y.src = "five.jpg";
+      y.src = "https://github.com/kuruvapavani/Dice_Game/blob/main/images/five.jpg?raw=true";
     break;
     case 6 :
-      y.src = "six.jpg";
+      y.src = "https://github.com/kuruvapavani/Dice_Game/blob/main/images/six.jpg?raw=true";
     break;
   }
 }
